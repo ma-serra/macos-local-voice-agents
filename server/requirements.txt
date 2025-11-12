@@ -9,3 +9,6 @@ aiortc
 nltk
 
 
+
+anthropic
+mcp_sdk
